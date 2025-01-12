@@ -4,32 +4,109 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c7d39209-a062-4997-86da-75e5d01241b1" name="Changes" comment="" />
+    <list default="true" id="c7d39209-a062-4997-86da-75e5d01241b1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exemplu2/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercitiu2/Ex2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercitiu2/PerecheNumere.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercitiu3/Ex3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercitiu3/Mobilier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/exercitiu3/Placa.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/MainApp.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Persoana.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/mobilier.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/perechinumere.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/persoane.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/teste/TesteCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/teste/TestePerecheNumere.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 7
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 7
+}</component>
   <component name="ProjectId" id="2oxGpVxXeECKYZ2oph9ur6CKmT4" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
-    "kotlin-language-version-configured": "true",
-    "onboarding.tips.debug.path": "C:/java/temaa5/src/main/java/org/example/Main.java"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.Ex2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.MainApp.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TesteCalculator.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestePerecheNumere$Teste_cmmmc.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestePerecheNumere$Teste_sumacifre.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TestePerecheNumere.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/java/temaa5/src/main/java/org/example/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
+  <component name="RunManager">
+    <configuration name="TestePerecheNumere$Teste_cmmmc" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="temaa5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="teste.TestePerecheNumere" />
+      <option name="MAIN_CLASS_NAME" value="teste.TestePerecheNumere$Teste_cmmmc" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TestePerecheNumere$Teste_sumacifre" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="temaa5" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="teste.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="teste.TestePerecheNumere" />
+      <option name="MAIN_CLASS_NAME" value="teste.TestePerecheNumere$Teste_sumacifre" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TestePerecheNumere$Teste_cmmmc" />
+        <item itemvalue="JUnit.TestePerecheNumere$Teste_sumacifre" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">

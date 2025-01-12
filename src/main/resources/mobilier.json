@@ -1,0 +1,10 @@
+[{"nume":"mobilier corp 1",
+
+  "placi":[{"descriere":"lataral", "lungime":1982, "latime":400, "orientare":"LUNGIME","canturi":[true,false,false,false],"nr_bucati":2},
+    {"descriere":"capac","lungime":550,"latime":400,"orientare":"LATIME","canturi":[true,true,false,true],"nr_bucati":1},
+    {"descriere":"usa mica","lungime":618,"latime":254,"orientare":"LUNGIME","canturi":[true,true,true,true],"nr_bucati":2}]},
+
+  { "nume":"dulap1",
+
+"placi":[{"descriere":"lateral", "lungime":200, "latime":400, "orientare":"LUNGIME","canturi":[true,false,false,false],"nr_bucati":2},
+  {"descriere":"capac","lungime":550,"latime":400,"orientare":"LATIME","canturi":[true,true,false,true],"nr_bucati":1}] }]
